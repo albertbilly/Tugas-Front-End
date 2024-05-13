@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecompositionApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Anime</string>
+    <string name="menu_course">About</string>
+    <string name="menu_share">Share</string>
+    <string name="app_share">Anime App</string>
+    <string name="share_message">Ayo Join MSIB Android Mobile Development di Infinite Learning!</string>
+</resources>
